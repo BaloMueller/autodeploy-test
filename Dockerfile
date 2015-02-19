@@ -1,4 +1,4 @@
-FROM buildpack-deps:wheezy
+FROM node:latest
 
 MAINTAINER Sebastian Mueller "smueller@mapofinterest.com"
 
